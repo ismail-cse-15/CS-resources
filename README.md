@@ -13,3 +13,9 @@
   <li>Theory of Computation (UG)</li>
   <li>VLSI Design (UG)</li>
 </ul>
+
+
+| Course Name | Study level |
+|:------|:-- |
+|Bioinformatics Algorithm| UG |
+
