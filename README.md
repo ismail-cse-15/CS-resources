@@ -1,8 +1,8 @@
 # CS-resources
 <h2>BOOKS</h2>
 <h2>NOTES</h2>
-| Course Name | Study level |
-|:------|:-- |
+| Course Name| Study level|
+|:------| :-- |
 |Bioinformatics Algorithms| PG|
 |Computer Network| UG|
 |Compter Graphics| UG|
