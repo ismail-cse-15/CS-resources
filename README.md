@@ -18,3 +18,5 @@
 |Theory of Computation| UG|
 |VLSI Design| UG|
 
+# Contacts
+Author: **[Md. Ismail](https://www.linkedin.com/in/ismail15/)**
