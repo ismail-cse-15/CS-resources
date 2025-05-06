@@ -1,8 +1,14 @@
 # CS-resources
 <h2>NOTES</h2>
-<ol>
-  <li>Bioinformatics Algorithms</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>
+<ul>
+  <li>[Bioinformatics Algorithms] (https://github.com/ismail-cse-15/CS-resources/blob/main/Notes/PG_Bioinformatics-Algorithms.pdf)</li>
+  <li>Computer Network</li>
+  <li>Compter Graphics</li>
+  <li>Data Mining</li>
+  <li>[Mathematical CS] (https://github.com/ismail-cse-15/CS-resources/blob/main/Notes/UG_Mathematical-CS.pdf)</li>
+  <li>Network Security</li>
+  <li>Neural Network and Fuzzy System</li>
+  <li>Operating System</li>
+  <li>Theory of Computation</li>
+  <li>VLSI Design</li>
+</ul>
